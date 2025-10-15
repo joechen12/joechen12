@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm currently a student at North Carolina School of Science and Math. 
+- 🔭 I’m currently working on getting better grades
+- 🌱 I’m currently learning about AI 
+- 😄 Pronouns: he/him
+
+
